@@ -45,10 +45,14 @@ Traditional systems using arrays:
 ## ⚙️ Workflow
 User Input → Operation Selection → Linked List Processing → Output Display
 
+---
+
 ## 🛠️ Technologies Used
 - C Programming
 - Data Structures (Singly Linked List)
 - Dynamic Memory Allocation (malloc, free)
+
+---
 
 ## ✨ Features
 - ➕ Add Student Record
@@ -57,6 +61,7 @@ User Input → Operation Selection → Linked List Processing → Output Display
 - 📋 Display All Records
 - 🔄 Update Student Details (if implemented)
 
+---
 💡 These are standard operations in student systems using linked lists.
 
 ## 📊 Data Structure Used
@@ -70,13 +75,25 @@ User Input → Operation Selection → Linked List Processing → Output Display
 - Dynamic size (no fixed limit)  
 - Efficient insertion & deletion  
 
+---
+
 ## 📂 Project Structure
+```bash
 Student_Management_System/
 │
 ├── main.c        # Main logic
 ├── functions.c   # Operations (insert, delete, search)
 ├── header.h      # Structure & declarations
 └── README.md
+```
+---
+
+## lines to compile
+```bash
+cc program.c
+./a.out
+```
+---
 
 ## 🚀 How It Works
 - User selects operation from menu
@@ -84,11 +101,15 @@ Student_Management_System/
 - Data is dynamically stored/updated
 - Output is displayed on console
 
+---
+
 ## 💥 Why This Project Matters
 - Demonstrates strong C programming fundamentals
 - Shows pointer and memory management skills
 - Implements real Data Structures (SLL)
 - Important for technical interviews
+
+---
 
 ## 🔮 Future Enhancements
 - File handling for data persistence
@@ -96,11 +117,15 @@ Student_Management_System/
 - GUI-based system
 - Database integration
 
+---
+
 ## 🧠 Learnings
 - Pointer manipulation
 - Dynamic memory allocation
 - Linked list operations
 - Problem-solving using data structures
+
+---
 
 ## 👨‍💻 Author
 
